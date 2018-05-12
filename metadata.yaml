@@ -1,0 +1,26 @@
+_repo: Hints-on-cheese-makingfor-the-dairyman-the-factoryman-and-the-manufacturer_43323
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43323-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curtis, T. D. (Thomas Day)
+    alias: Curtis, Thomas Day
+    gutenberg_agent_id: '41800'
+    url: http://www.gutenberg.org/2009/agents/41800
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43323'
+  lccn: '12015253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cheese'
+- !lcc 'SF'
+title: Hints on cheese-making, for the dairyman, the factoryman, and the manufacturer
+url: http://www.gutenberg.org/ebooks/43323
